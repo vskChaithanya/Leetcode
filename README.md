@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vskChaithanya/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2574-left-and-right-sum-differences](https://github.com/vskChaithanya/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vskChaithanya/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vskChaithanya/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vskChaithanya/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Linked List
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vskChaithanya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Tree
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
