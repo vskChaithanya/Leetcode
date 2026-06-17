@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vskChaithanya/Leetcode/tree/master/0735-asteroid-collision) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vskChaithanya/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vskChaithanya/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3838-weighted-word-mapping](https://github.com/vskChaithanya/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
