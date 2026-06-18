@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/vskChaithanya/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vskChaithanya/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/vskChaithanya/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3838-weighted-word-mapping](https://github.com/vskChaithanya/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
