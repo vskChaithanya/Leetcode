@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vskChaithanya/Leetcode/tree/master/0735-asteroid-collision) |
+| [1046-last-stone-weight](https://github.com/vskChaithanya/Leetcode/tree/master/1046-last-stone-weight) |
 | [1833-maximum-ice-cream-bars](https://github.com/vskChaithanya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vskChaithanya/Leetcode/tree/master/1840-maximum-building-height) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vskChaithanya/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/vskChaithanya/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/vskChaithanya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vskChaithanya/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/vskChaithanya/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
