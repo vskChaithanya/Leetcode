@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/vskChaithanya/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vskChaithanya/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3206-alternating-groups-i](https://github.com/vskChaithanya/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/vskChaithanya/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/vskChaithanya/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vskChaithanya/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3206-alternating-groups-i](https://github.com/vskChaithanya/Leetcode/tree/master/3206-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
