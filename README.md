@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vskChaithanya/Leetcode/tree/master/0735-asteroid-collision) |
 | [1046-last-stone-weight](https://github.com/vskChaithanya/Leetcode/tree/master/1046-last-stone-weight) |
+| [1288-remove-covered-intervals](https://github.com/vskChaithanya/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/vskChaithanya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vskChaithanya/Leetcode/tree/master/1840-maximum-building-height) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vskChaithanya/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/vskChaithanya/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/vskChaithanya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vskChaithanya/Leetcode/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vskChaithanya/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
