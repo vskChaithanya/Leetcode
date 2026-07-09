@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/vskChaithanya/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/vskChaithanya/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vskChaithanya/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vskChaithanya/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/vskChaithanya/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vskChaithanya/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vskChaithanya/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/vskChaithanya/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vskChaithanya/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vskChaithanya/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vskChaithanya/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vskChaithanya/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -189,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vskChaithanya/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vskChaithanya/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vskChaithanya/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vskChaithanya/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vskChaithanya/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
