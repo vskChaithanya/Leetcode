@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vskChaithanya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0735-asteroid-collision](https://github.com/vskChaithanya/Leetcode/tree/master/0735-asteroid-collision) |
 | [1046-last-stone-weight](https://github.com/vskChaithanya/Leetcode/tree/master/1046-last-stone-weight) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vskChaithanya/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vskChaithanya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/vskChaithanya/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vskChaithanya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vskChaithanya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vskChaithanya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vskChaithanya/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vskChaithanya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
