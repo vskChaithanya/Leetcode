@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/vskChaithanya/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vskChaithanya/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2974-minimum-number-game](https://github.com/vskChaithanya/Leetcode/tree/master/2974-minimum-number-game) |
 | [3206-alternating-groups-i](https://github.com/vskChaithanya/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/vskChaithanya/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/vskChaithanya/Leetcode/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vskChaithanya/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/vskChaithanya/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2974-minimum-number-game](https://github.com/vskChaithanya/Leetcode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vskChaithanya/Leetcode/tree/master/0735-asteroid-collision) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vskChaithanya/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vskChaithanya/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2974-minimum-number-game](https://github.com/vskChaithanya/Leetcode/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/vskChaithanya/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/vskChaithanya/Leetcode/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2974-minimum-number-game](https://github.com/vskChaithanya/Leetcode/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vskChaithanya/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
