@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/vskChaithanya/Leetcode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vskChaithanya/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vskChaithanya/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3833-count-dominant-indices](https://github.com/vskChaithanya/Leetcode/tree/master/3833-count-dominant-indices) |
