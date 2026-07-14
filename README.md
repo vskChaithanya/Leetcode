@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/vskChaithanya/Leetcode/tree/master/2974-minimum-number-game) |
 | [3206-alternating-groups-i](https://github.com/vskChaithanya/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vskChaithanya/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vskChaithanya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/vskChaithanya/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vskChaithanya/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/vskChaithanya/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/vskChaithanya/Leetcode/tree/master/1840-maximum-building-height) |
 | [3280-convert-date-to-binary](https://github.com/vskChaithanya/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vskChaithanya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vskChaithanya/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vskChaithanya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vskChaithanya/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vskChaithanya/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/vskChaithanya/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vskChaithanya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
