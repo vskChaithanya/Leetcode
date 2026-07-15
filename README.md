@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/vskChaithanya/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vskChaithanya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vskChaithanya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vskChaithanya/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/vskChaithanya/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -233,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vskChaithanya/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vskChaithanya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
